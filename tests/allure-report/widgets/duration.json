@@ -1,0 +1,61 @@
+[ {
+  "uid" : "22d7094ceffa2cd4",
+  "name" : "test_search_multiple_items[adidas classic shoes]",
+  "time" : {
+    "start" : 1591722279479,
+    "stop" : 1591722308214,
+    "duration" : 28735
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b21f1c45eac4ddd",
+  "name" : "test_amazon_title",
+  "time" : {
+    "start" : 1591722323283,
+    "stop" : 1591722340566,
+    "duration" : 17283
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab61ba21b2589efb",
+  "name" : "test_search_multiple_items[puma sneakers]",
+  "time" : {
+    "start" : 1591722215580,
+    "stop" : 1591722261210,
+    "duration" : 45630
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac50e5f96c15de95",
+  "name" : "test_search_airmax",
+  "time" : {
+    "start" : 1591722077642,
+    "stop" : 1591722105120,
+    "duration" : 27478
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10713deb041260c3",
+  "name" : "test_search_multiple_items[reebok crossfit shoes men]",
+  "time" : {
+    "start" : 1591722166252,
+    "stop" : 1591722201302,
+    "duration" : 35050
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a3681845a3094ac",
+  "name" : "test_search_multiple_items[nike air max]",
+  "time" : {
+    "start" : 1591722118863,
+    "stop" : 1591722152856,
+    "duration" : 33993
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

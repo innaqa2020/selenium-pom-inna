@@ -1,0 +1,91 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-KJQP6E2",
+    "children" : [ {
+      "name" : "21356-MainThread",
+      "children" : [ {
+        "name" : "test_search_multiple_items[reebok crossfit shoes men]",
+        "uid" : "10713deb041260c3",
+        "parentUid" : "f44b07ba37dd24f84838c67504a7907a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591722166252,
+          "stop" : 1591722201302,
+          "duration" : 35050
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'reebok crossfit shoes men'" ]
+      }, {
+        "name" : "test_search_airmax",
+        "uid" : "ac50e5f96c15de95",
+        "parentUid" : "f44b07ba37dd24f84838c67504a7907a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591722077642,
+          "stop" : 1591722105120,
+          "duration" : 27478
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search_multiple_items[nike air max]",
+        "uid" : "4a3681845a3094ac",
+        "parentUid" : "f44b07ba37dd24f84838c67504a7907a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591722118863,
+          "stop" : 1591722152856,
+          "duration" : 33993
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'nike air max'" ]
+      }, {
+        "name" : "test_amazon_title",
+        "uid" : "4b21f1c45eac4ddd",
+        "parentUid" : "f44b07ba37dd24f84838c67504a7907a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591722323283,
+          "stop" : 1591722340566,
+          "duration" : 17283
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search_multiple_items[adidas classic shoes]",
+        "uid" : "22d7094ceffa2cd4",
+        "parentUid" : "f44b07ba37dd24f84838c67504a7907a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591722279479,
+          "stop" : 1591722308214,
+          "duration" : 28735
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'adidas classic shoes'" ]
+      }, {
+        "name" : "test_search_multiple_items[puma sneakers]",
+        "uid" : "ab61ba21b2589efb",
+        "parentUid" : "f44b07ba37dd24f84838c67504a7907a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591722215580,
+          "stop" : 1591722261210,
+          "duration" : 45630
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'puma sneakers'" ]
+      } ],
+      "uid" : "f44b07ba37dd24f84838c67504a7907a"
+    } ],
+    "uid" : "1e1de72a81fd15627429d95987c3efd1"
+  } ]
+}

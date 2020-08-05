@@ -1,0 +1,86 @@
+{
+  "uid" : "4a3681845a3094ac",
+  "name" : "test_search_multiple_items[nike air max]",
+  "fullName" : "test_search_multiple#test_search_multiple_items",
+  "historyId" : "b6d167d526b4d137c4bcbbf5e4de2834",
+  "time" : {
+    "start" : 1591722118863,
+    "stop" : 1591722152856,
+    "duration" : 33993
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "browser",
+    "time" : {
+      "start" : 1591722110705,
+      "stop" : 1591722118860,
+      "duration" : 8155
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "browser::0",
+    "time" : {
+      "start" : 1591722152866,
+      "stop" : 1591722158032,
+      "duration" : 5166
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "regressiontest"
+  }, {
+    "name" : "suite",
+    "value" : "test_search_multiple"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KJQP6E2"
+  }, {
+    "name" : "thread",
+    "value" : "21356-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_search_multiple"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "item",
+    "value" : "'nike air max'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "regressiontest" ]
+  },
+  "source" : "4a3681845a3094ac.json",
+  "parameterValues" : [ "'nike air max'" ]
+}

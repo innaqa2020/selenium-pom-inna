@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jun 09 13:04:39 EDT 2020","Tue Jun 09 13:05:08 EDT 2020","28735","","test_search_multiple","","","","test_search_multiple_items[adidas classic shoes]",""
+"passed","Tue Jun 09 13:05:23 EDT 2020","Tue Jun 09 13:05:40 EDT 2020","17283","","test_title","","","","test_amazon_title",""
+"passed","Tue Jun 09 13:03:35 EDT 2020","Tue Jun 09 13:04:21 EDT 2020","45630","","test_search_multiple","","","","test_search_multiple_items[puma sneakers]",""
+"passed","Tue Jun 09 13:01:17 EDT 2020","Tue Jun 09 13:01:45 EDT 2020","27478","","test_search","","","","test_search_airmax",""
+"passed","Tue Jun 09 13:02:46 EDT 2020","Tue Jun 09 13:03:21 EDT 2020","35050","","test_search_multiple","","","","test_search_multiple_items[reebok crossfit shoes men]",""
+"passed","Tue Jun 09 13:01:58 EDT 2020","Tue Jun 09 13:02:32 EDT 2020","33993","","test_search_multiple","","","","test_search_multiple_items[nike air max]",""

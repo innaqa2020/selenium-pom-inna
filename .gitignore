@@ -1,0 +1,7 @@
+tests/.pytest_cache
+.pytest_cache
+node_modules
+../__pycache__/
+../package-lock.json
+../pages/__pycache__/
+__pycache__/
